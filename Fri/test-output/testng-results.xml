@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-25T00:16:58Z" name="Default suite" finished-at="2022-06-25T00:17:04Z" duration-ms="5963">
+    <groups>
+    </groups>
+    <test started-at="2022-06-25T00:16:58Z" name="Default test" finished-at="2022-06-25T00:17:04Z" duration-ms="5963">
+      <class name="ng.NewTest">
+        <test-method signature="f()[pri:0, instance:ng.NewTest@3d246ea3]" started-at="2022-06-24T19:16:58Z" name="f" finished-at="2022-06-24T19:17:04Z" duration-ms="5940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- ng.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
