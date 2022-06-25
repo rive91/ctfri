@@ -9,7 +9,7 @@ public class Seltest {
 		String exePath = "./driver/chromedriver";
 		System.setProperty("webdriver.chrome.driver", exePath); //agregando la propiedad con la ruta del chrome driver
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.cooltesters.com/tienda-de-cursos/selenium-con-java");
+		driver.get("https://www.google.com");
 
 	}
 
